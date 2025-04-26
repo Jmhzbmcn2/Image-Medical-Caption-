@@ -15,7 +15,6 @@ The goal of the system is:
 ### Real-world Objective
 - Assist doctors by automatically generating a preliminary report from chest X-Ray images.
 - The model should be able to **identify different types of diseases** from the images.
-- No image preprocessing, data augmentation (e.g., rotation, noise), or complex transformations are required.
 - **Out-of-scope:** Bone fracture diagnosis is not handled.
 - **In-scope:** Common thoracic diseases such as effusion, infiltration, pneumothorax, etc.
 
